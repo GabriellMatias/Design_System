@@ -1,1 +1,6 @@
-storybooks-static
+storybook-static
+node_modules
+.turbo
+
+/storybook-static
+/node_modules
