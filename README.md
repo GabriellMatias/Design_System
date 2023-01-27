@@ -18,4 +18,6 @@
 # MonoRepo
   -Mesmo espaco de trabalho que tem varios projetos em um mesmo local
   -Usa em projetos DEPENDENTES ENTRE SI
-  -
+  
+  
+  # :hammer: Building README
