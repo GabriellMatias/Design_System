@@ -20,6 +20,9 @@ jobs:
       - run: npm ci
 
       - run: npm run build
+        env:
+          TURBO_TOKEN: TZsFWAgWC1APzeGn7dJs7Hy5
+          TURBO_TEAM: gabriellmatias
 
       - name: Deploy storybook
         working-directory: ./Packages/docs
